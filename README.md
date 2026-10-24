@@ -78,7 +78,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ### Register No:
 212225230129
 ---
-## PYHTON OCDES AND OUTPUT:
+## PYHTON CODES AND OUTPUT:
 ### PROGRAM IMPORTING LIBRARIES:
 ~~~
 import cv2
